@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning at Rwanda Coding Academy
 - 💞️ I’m looking to collaborate on any project involving web development either design, frontend or backend
-- 📫 How to reach me 0783406032 or mpanoc6@gmail.com
+- 📫 How to reach me 0791587513 or mpanoc6@gmail.com
+- you can checkout my portifolio at chrismpano.epizy.com
 
 <!---
 Christian-pprogrammer/Christian-pprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
