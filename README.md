@@ -1,8 +1,6 @@
 - 👋 Hi, I’m MPANO Christian
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning at Rwanda Coding Academy
-- 💞️ I’m looking to collaborate on any project involving web development either design, frontend or backend
-- 📫 How to reach me 0791587513 or mpanoc6@gmail.com
+- I am a fullstack software developer with 2+ years of experience and who is always open to learning new things.
+- Working with others really interests me most
 - you can checkout my portifolio at chrismpano.epizy.com
 
 <!---
