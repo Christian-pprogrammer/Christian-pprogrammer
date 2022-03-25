@@ -3,6 +3,9 @@
 - Working with others really interests me most
 - you can checkout my portifolio at chrismpano.epizy.com
 
+MY STATS
+![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+
 <!---
 Christian-pprogrammer/Christian-pprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
