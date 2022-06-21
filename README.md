@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MPANO Christian
-- I am a fullstack software developer with 2+ years of experience and who is always open to learning new things.
+- I am a fullstack software developer with 3 years of experience and who is always open to learning new things.
 - Working with others really interests me most
 - you can checkout my portifolio at chrismpano.epizy.com
